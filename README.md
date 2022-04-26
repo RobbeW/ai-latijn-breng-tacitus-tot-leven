@@ -16,7 +16,7 @@ Dit project is ontwikkelend om een brug te slaan tussen twee ogenschijnlijke teg
 
 Er worden via deze aanpak ook enkele **leerplandoelstellingen bereikt**, namelijk: 
 
-### **Reeds bereikte doelstellingen: 
+### **Reeds bereikte doelstellingen:**
 * LPD 3 De leerlingen lezen Latijnse tekstfragmenten voor volgens de algemene regels van de Latijnse uitspraak met aandacht voor articulatie, de lengte van klinkers en de juiste klemtoon. → aandacht voor de uitspraak wordt bereikt a.d.h.v. de Latijnse tekst die de leerlingen correct moeten voordragen  
 
 * LPD 36 De leerlingen verwerken aspecten van de klassieke oudheid of latere periodes op een creatieve manier. 
