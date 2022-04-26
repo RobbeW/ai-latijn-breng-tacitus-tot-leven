@@ -46,7 +46,7 @@ Binnen dit project komen ook andere personages aan bod binnen de Romeinse bescha
 
 * LPD 33: De leerlingen lichten diversiteit binnen de bestudeerde maatschappij toe. 
 
-## **Gebruik**
+## **Gebruik:**
 Bij dit project horen enkele lesmaterialen, zoals: 
 * een werkbundel voor de leerlingen; 
 * een informatiebundel voor de leerkracht; 
@@ -58,7 +58,10 @@ Alle lesmaterialen zijn te vinden via volgende websites:
 Hiervoor neem je contact op met **Robbe Wulgaert** [via deze link.](https://robbewulgaert.be/contact) 
 
 
-## **Bron AI-reconstructies** 
+## **Bron AI-reconstructies:** 
+
+### **Referentie: Panagiotis Constantinou**
+Reconstructies op basis van beelden en bustes, gemaakt door middel van een computeralgoritme en beschikbaar gesteld via YouTube door [Panagiotis Constantinou](https://www.youtube.com/channel/UCgokSYCEqZE_yVLswO1vPXg). 
 
 ### **Referentie: First Order Motion Model for Image Animation**
 
