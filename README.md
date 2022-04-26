@@ -1,5 +1,7 @@
 # **Lesproject AI & Latijn - Agrippina**
 
+<img src="/afbeeldingen-github/Agrippina Artwork II Notebook copy.png"/>
+
 **Dit lesproject werd ontwikkeld door [Robbe Wulgaert (Sint-Lievenscollege Gent)](https://robbewulgaert.be), Florian Debaene en Laurens Van Daele (Studenten Educatieve Master Grieks-Latijn UGent). Dit in het kader van het vak 'Vakdidactiek B'. Dit project is een doorontwikkeling van het lesproject ['AI & Klassieke Talen - Breng de Romeinse keizers terug tot leven'](https://www.robbewulgaert.be/onderwijs/ai-klassieke-talen-breng-de-romeinse-keizers-tot-leven) en is gebouwd op eerder werk, namelijk *'First Order Motion Model for Image Animation*.** 
 
 ## **Inleiding**
