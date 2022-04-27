@@ -12,6 +12,7 @@ In deze opdracht worden de leerlingen uitgedaagd om zélf in de huid van de pers
 Deze monoloog wordt opgenomen en door de AI omgezet in een deepfake. Deze deepfake wordt gebaseerd op AI-reconstructies van oude Romeinse standbeelden en bustes. 
 
 ## **Voorbeelden**
+<img src="afbeeldingen-github/Seneca_Robbe_Demonstratie.gif"/>
 
 ## **Doelstellingen**
 Dit project is ontwikkelend om een brug te slaan tussen twee ogenschijnlijke tegenpolen, namelijk de **Klassieke Talen** en moderne computertechnieken en programmeertalen. Het wil de leerling een inleiding geven in de wereld van **artificiële intelligentie**, tonen wat de mogelijkheden maar ook de gevaren zijn ervan. Wij willen deze technologie aanwenden om een positief verschil te maken! 
