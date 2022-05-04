@@ -19,35 +19,25 @@ Dit project is ontwikkelend om een brug te slaan tussen twee ogenschijnlijke teg
 
 Er worden via deze aanpak ook enkele **leerplandoelstellingen bereikt**, namelijk: 
 
-### **Reeds bereikte doelstellingen:**
-* LPD 3 De leerlingen lezen Latijnse tekstfragmenten voor volgens de algemene regels van de Latijnse uitspraak met aandacht voor articulatie, de lengte van klinkers en de juiste klemtoon. → aandacht voor de uitspraak wordt bereikt a.d.h.v. de Latijnse tekst die de leerlingen correct moeten voordragen  
+* LPD 4: Een aangeleerde leesmethode toepassen.	  
 
-* LPD 36 De leerlingen verwerken aspecten van de klassieke oudheid of latere periodes op een creatieve manier. 
+* LPD 5: Bij het leesproces het tekstbegrip systematisch aan grammaticale en inhoudelijke criteria toetsen en de aard van eventuele problemen aangeven.	 
 
-### **Bijkomende doelen:**
-De leerlingen lezen eerst een fragment in het Latijn en leiden de betekenis hiervan af. Dit fragment dragen ze dan voor in de deepfake video. Om het fragment goed te kunnen voordragen, is het cruciaal dat de leerlingen de tekst goed begrijpen: zo weten ze bijvoorbeeld waarop ze moeten focussen tijdens het voordragen. Dit kan a.d.h.v. volgende leerplandoelen:  
+* LPD 7: Tekstbegrip tonen door de hoofdgedachte uit de tekst te halen, de tekst te parafraseren, de tekst te synthetiseren, de Latijnse tekst expressief te lezen ... 
 
+* LPD 9: De opbouw van een tekst(fragment) ontleden. 
 
-* LPD 16: De leerlingen reflecteren over de volgorde van woorden en zinsdelen om tot beter tekstbegrip te komen. 
+* LPD 13: De communicatieve functie van teksten verduidelijken aan de hand van vorm en inhoud.
 
-* LPD 17: De leerlingen benoemen het verband tussen leeseenheden en tussen zinnen op basis van signaalwoorden en door verwijswoorden te concretiseren. 
+* LPD 14: De relatie tussen inhoud en vorm kritisch evalueren en de expressieve waarde beoordelen volgens klassieke en hedendaagse visies.
 
-* LPD 18 De leerlingen leiden uit de context een passende woordbetekenis af. 
+* LPD 15: Een tekstfragment in een ruimer geheel situeren. 
 
-* LPD 19 De leerlingen bewaken hun leesproces en sturen bij waar nodig.  
+* LPD 19: Gegeven vertalingen met de gelezen brontekst en met elkaar vergelijken en daarbij verschillen tussen het Latijnse en Nederlandse taalsysteem toelichten. 
 
-* LPD 20: De leerlingen maken doeltreffend gebruik van een (digitale) woordenlijst, een grammaticaal referentiekader of andere hulpmiddelen. 
+* LPD 28: Aan de hand van taal en cultuur de identiteit en diversiteit van de Romeinse samenleving toelichten.
 
-* LPD 21: De leerlingen laten zien dat ze de tekst begrepen hebben.  
-
-### **Extra Doelstellingen:**
-Eventueel is het ook mogelijk om teksten in versvorm te lezen, bijvoorbeeld een dactylische hexameter. Daar past dit leerplandoel goed bij:  
-
-* LPD 24: De leerlingen passen de basisregels toe van prosodie en metriek als hulpmiddel bij tekstreflectie. 
-
-Binnen dit project komen ook andere personages aan bod binnen de Romeinse beschaving, zoals slaven. Hier sluit volgend leerplandoelstelling bij aan: 
-
-* LPD 33: De leerlingen lichten diversiteit binnen de bestudeerde maatschappij toe. 
+* LPD 29: Een persoonlijke reactie op Romeinse denkbeelden en cultuuruitingen geven en die creatief verwerken.
 
 ## **Gebruik:**
 Bij dit project horen enkele lesmaterialen, zoals: 
