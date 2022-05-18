@@ -12,13 +12,13 @@ In deze opdracht worden de leerlingen uitgedaagd om zélf in de huid van de pers
 Deze monoloog wordt opgenomen en door de AI omgezet in een deepfake. Deze deepfake wordt gebaseerd op AI-reconstructies van oude Romeinse standbeelden en bustes. 
 
 ## **Voorbeelden**
-**Base image + driver video = eindresultaat**
+<p>**Base image + driver video = eindresultaat**</p>
 <img src="afbeeldingen-github/Poppaea-Robbe-1.gif"/>
 
-**Positiebepaling via OpenPose**
+<p>**Positiebepaling via OpenPose**</p>
 <img src="afbeeldingen-github/Poppaea-Robbe-2.gif"/>
 
-**Eindresultaat (zonder driver video)**
+<p>**Eindresultaat (zonder driver video)**</p>
 <img src="afbeeldingen-github/Poppaea-Robbe-3.gif"/>
 
 
