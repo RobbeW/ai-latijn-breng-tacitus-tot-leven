@@ -3,6 +3,7 @@
 <img src="afbeeldingen-github/Breng Tacitus tot leven - Artwork - Notebook.png"/>
 
 **Dit lesproject werd ontwikkeld door [Robbe Wulgaert (Sint-Lievenscollege Gent)](https://robbewulgaert.be), Florian Debaene en Laurens Van Daele (Studenten Educatieve Master Grieks-Latijn UGent). Dit in het kader van het vak 'Vakdidactiek B'. Dit project is een doorontwikkeling van het lesproject ['AI & Klassieke Talen - Breng de Romeinse keizers terug tot leven'](https://www.robbewulgaert.be/onderwijs/ai-klassieke-talen-breng-de-romeinse-keizers-tot-leven) en is gebouwd op eerder werk, namelijk *'First Order Motion Model for Image Animation*.** 
+---
 
 ## **Inleiding**
 Ter afronding van de lectuur van Tacitus’ Annales XIV 1-9 maken de leerlingen een creatieve opdracht, met behulp van ‘Artificiële Intelligentie’. Artificiële intelligentie (of AI) is aan een opmars bezig. Het zorgt voor doorbraken bij zelfrijdende auto’s, het zorgt voor een gepersonaliseerde kijkervaring bij diensten zoals Netflix, het bepaalt wat we zien op sociale media ... en het versnelde ook de creatie van deepfakes. Een samentrekking van deep learning (een leermethode binnen machine learning) en fake news. Dat klinkt niet al te best en dat is het ook niet. Meer dan 95% van alle deepfakes worden gemaakt met kwade bedoelingen, zoals misinformatie of wraakporno. **Wij hopen met dit project een positief verhaal te schrijven voor deze technologie!**
@@ -10,7 +11,8 @@ Ter afronding van de lectuur van Tacitus’ Annales XIV 1-9 maken de leerlingen 
 In deze opdracht worden de leerlingen uitgedaagd om zélf in de huid van de personages die worden opgevoerd in Tacitus’ Annales XIV 1-9 te kruipen, met behulp van AI. Hierbij zullen jullie een monoloog opnemen waarin je in directe rede (“gesproken tekst”) het verhaal van één personage vertelt. Vanuit het ik-perspectief geven leerlingen de essentie weer van wat we over dit personage te weten komen in Tacitus’ tekst. Leerlingen leven zich hierbij zo goed mogelijk in om de juiste gevoelens en gedragingen van het personage over te brengen: sommige personages zullen meer woordelijke invulling en creativiteit nodig hebben dan anderen. 
 
 Deze monoloog wordt opgenomen en door de AI omgezet in een deepfake. Deze deepfake wordt gebaseerd op AI-reconstructies van oude Romeinse standbeelden en bustes. 
-
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/RY0JahcxLmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+--- 
 ## **Voorbeelden**
 ### **Base image + driver video = eindresultaat**
 <img src="afbeeldingen-github/Poppaea-Robbe-1.gif"/>
@@ -21,6 +23,9 @@ Deze monoloog wordt opgenomen en door de AI omgezet in een deepfake. Deze deepfa
 ### **Eindresultaat (zonder driver video)**
 <img src="afbeeldingen-github/Poppaea-Robbe-3.gif"/>
 
+### **Eindresultaat (volledige video)**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zfNlg2tF2Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+--- 
 
 ## **Doelstellingen**
 Dit project is ontwikkelend om een brug te slaan tussen twee ogenschijnlijke tegenpolen, namelijk de **Klassieke Talen** en moderne computertechnieken en programmeertalen. Het wil de leerling een inleiding geven in de wereld van **artificiële intelligentie**, tonen wat de mogelijkheden maar ook de gevaren zijn ervan. Wij willen deze technologie aanwenden om een positief verschil te maken! 
@@ -46,7 +51,7 @@ Er worden via deze aanpak ook enkele **leerplandoelstellingen bereikt**, namelij
 * LPD 28: Aan de hand van taal en cultuur de identiteit en diversiteit van de Romeinse samenleving toelichten.
 
 * LPD 29: Een persoonlijke reactie op Romeinse denkbeelden en cultuuruitingen geven en die creatief verwerken.
-
+---
 ## **Gebruik:**
 Bij dit project horen enkele lesmaterialen, zoals: 
 * een werkbundel voor de leerlingen; 
@@ -54,6 +59,7 @@ Bij dit project horen enkele lesmaterialen, zoals:
 * een digitale Colab Notebook. 
 
 Alle lesmaterialen zijn te vinden via volgende websites: 
+---
 
 ## **Ik wil dit in de klas! Wat moet ik doen?**
 Hiervoor neem je contact op met **Robbe Wulgaert** [via deze link.](https://robbewulgaert.be/contact) 
