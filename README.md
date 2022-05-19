@@ -3,7 +3,6 @@
 <img src="afbeeldingen-github/Breng Tacitus tot leven - Artwork - Notebook.png"/>
 
 **Dit lesproject werd ontwikkeld door [Robbe Wulgaert (Sint-Lievenscollege Gent)](https://robbewulgaert.be), Florian Debaene en Laurens Van Daele (Studenten Educatieve Master Grieks-Latijn UGent). Dit in het kader van het vak 'Vakdidactiek B'. Dit project is een doorontwikkeling van het lesproject ['AI & Klassieke Talen - Breng de Romeinse keizers terug tot leven'](https://www.robbewulgaert.be/onderwijs/ai-klassieke-talen-breng-de-romeinse-keizers-tot-leven) en is gebouwd op eerder werk, namelijk *'First Order Motion Model for Image Animation*.** 
----
 
 ## **Inleiding**
 Ter afronding van de lectuur van Tacitus’ Annales XIV 1-9 maken de leerlingen een creatieve opdracht, met behulp van ‘Artificiële Intelligentie’. Artificiële intelligentie (of AI) is aan een opmars bezig. Het zorgt voor doorbraken bij zelfrijdende auto’s, het zorgt voor een gepersonaliseerde kijkervaring bij diensten zoals Netflix, het bepaalt wat we zien op sociale media ... en het versnelde ook de creatie van deepfakes. Een samentrekking van deep learning (een leermethode binnen machine learning) en fake news. Dat klinkt niet al te best en dat is het ook niet. Meer dan 95% van alle deepfakes worden gemaakt met kwade bedoelingen, zoals misinformatie of wraakporno. **Wij hopen met dit project een positief verhaal te schrijven voor deze technologie!**
@@ -12,7 +11,7 @@ In deze opdracht worden de leerlingen uitgedaagd om zélf in de huid van de pers
 
 Deze monoloog wordt opgenomen en door de AI omgezet in een deepfake. Deze deepfake wordt gebaseerd op AI-reconstructies van oude Romeinse standbeelden en bustes. 
 
---- 
+
 ## **Voorbeelden**
 ### **Base image + driver video = eindresultaat**
 <img src="afbeeldingen-github/Poppaea-Robbe-1.gif"/>
@@ -24,7 +23,7 @@ Deze monoloog wordt opgenomen en door de AI omgezet in een deepfake. Deze deepfa
 <img src="afbeeldingen-github/Poppaea-Robbe-3.gif"/>
 
 
---- 
+
 
 ## **Doelstellingen**
 Dit project is ontwikkelend om een brug te slaan tussen twee ogenschijnlijke tegenpolen, namelijk de **Klassieke Talen** en moderne computertechnieken en programmeertalen. Het wil de leerling een inleiding geven in de wereld van **artificiële intelligentie**, tonen wat de mogelijkheden maar ook de gevaren zijn ervan. Wij willen deze technologie aanwenden om een positief verschil te maken! 
@@ -50,7 +49,8 @@ Er worden via deze aanpak ook enkele **leerplandoelstellingen bereikt**, namelij
 * LPD 28: Aan de hand van taal en cultuur de identiteit en diversiteit van de Romeinse samenleving toelichten.
 
 * LPD 29: Een persoonlijke reactie op Romeinse denkbeelden en cultuuruitingen geven en die creatief verwerken.
----
+
+
 ## **Gebruik:**
 Bij dit project horen enkele lesmaterialen, zoals: 
 * een werkbundel voor de leerlingen; 
@@ -58,7 +58,7 @@ Bij dit project horen enkele lesmaterialen, zoals:
 * een digitale Colab Notebook. 
 
 Alle lesmaterialen zijn te vinden via volgende websites: 
----
+
 
 ## **Ik wil dit in de klas! Wat moet ik doen?**
 Hiervoor neem je contact op met **Robbe Wulgaert** [via deze link.](https://robbewulgaert.be/contact) 
