@@ -11,7 +11,7 @@ Ter afronding van de lectuur van Tacitus’ Annales XIV 1-9 maken de leerlingen 
 In deze opdracht worden de leerlingen uitgedaagd om zélf in de huid van de personages die worden opgevoerd in Tacitus’ Annales XIV 1-9 te kruipen, met behulp van AI. Hierbij zullen jullie een monoloog opnemen waarin je in directe rede (“gesproken tekst”) het verhaal van één personage vertelt. Vanuit het ik-perspectief geven leerlingen de essentie weer van wat we over dit personage te weten komen in Tacitus’ tekst. Leerlingen leven zich hierbij zo goed mogelijk in om de juiste gevoelens en gedragingen van het personage over te brengen: sommige personages zullen meer woordelijke invulling en creativiteit nodig hebben dan anderen. 
 
 Deze monoloog wordt opgenomen en door de AI omgezet in een deepfake. Deze deepfake wordt gebaseerd op AI-reconstructies van oude Romeinse standbeelden en bustes. 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/RY0JahcxLmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 --- 
 ## **Voorbeelden**
 ### **Base image + driver video = eindresultaat**
@@ -23,8 +23,7 @@ Deze monoloog wordt opgenomen en door de AI omgezet in een deepfake. Deze deepfa
 ### **Eindresultaat (zonder driver video)**
 <img src="afbeeldingen-github/Poppaea-Robbe-3.gif"/>
 
-### **Eindresultaat (volledige video)**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zfNlg2tF2Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 --- 
 
 ## **Doelstellingen**
