@@ -66,7 +66,7 @@ Hiervoor neem je contact op met **Robbe Wulgaert** [via deze link.](https://robb
 
 
 
-##**Bronnen en credits: 📚**
+## **Bronnen en credits: 📚**
 Dit project is gebaseerd op de Annalen van Tacitus en werd bedacht door Florian Debaene (UGent), Laurens Van Daele (UGent) tijdens het vak Vakdidactiek B in de Educatieve Master Grieks-Latijn. Dit gebeurde in opdracht van Robbe Wulgaert (Sint-Lievenscollege), Katja De Herdt (UGent) en Katrien Vanacker (UGent). Het lesmateriaal over de [moord op Agrippina en de annalen van Tacitus](https://www.robbewulgaert.be/onderwijs/ai-en-latijn-breng-tacitus-tot-leven) bouwt voort op dit lesproject.
 
 Meer informatie op [robbewulgaert.be ](https://www.robbewulgaert.be)
