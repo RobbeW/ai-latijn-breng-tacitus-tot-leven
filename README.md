@@ -64,12 +64,21 @@ Alle lesmaterialen zijn te vinden via volgende websites:
 Hiervoor neem je contact op met **Robbe Wulgaert** [via deze link.](https://robbewulgaert.be/contact) 
 
 
-## **Bron AI-reconstructies:** 
 
-### **Referentie: Panagiotis Constantinou**
-Reconstructies op basis van beelden en bustes, gemaakt door middel van een computeralgoritme en beschikbaar gesteld via YouTube door [Panagiotis Constantinou](https://www.youtube.com/channel/UCgokSYCEqZE_yVLswO1vPXg). 
 
-### **Referentie: First Order Motion Model for Image Animation**
+##**Bronnen en credits: 📚**
+Dit project is gebaseerd op de Annalen van Tacitus en werd bedacht door Florian Debaene (UGent), Laurens Van Daele (UGent) tijdens het vak Vakdidactiek B in de Educatieve Master Grieks-Latijn. Dit gebeurde in opdracht van Robbe Wulgaert (Sint-Lievenscollege), Katja De Herdt (UGent) en Katrien Vanacker (UGent). Het lesmateriaal over de [moord op Agrippina en de annalen van Tacitus](https://www.robbewulgaert.be/onderwijs/ai-en-latijn-breng-tacitus-tot-leven) bouwt voort op dit lesproject.
 
-This repository contains the source code for the paper [First Order Motion Model for Image Animation](https://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation) by Aliaksandr Siarohin, [Stéphane Lathuilière](http://stelat.eu), [Sergey Tulyakov](http://stulyakov.com), [Elisa Ricci](http://elisaricci.eu/) and [Nicu Sebe](http://disi.unitn.it/~sebe/). 
+Meer informatie op [robbewulgaert.be ](https://www.robbewulgaert.be)
+
+
+* Referentie: Panagiotis Constantinou
+Reconstructies op basis van afbeeldingen en bustes gemaakt door een computeralgoritme en beschikbaar gemaakt via YouTube door Panagiotis Constantinou.
+
+* Referentie: First Order Image Model
+Dit project gebruikt code uit First Order Motion Model for Image Animation van Aliaksandr Siarohin, Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci en Nicu Sebe. [Document via deze link ](https://papers.nips.cc/paper/2019/hash/31c0b36aef265d9221af80872ceb62f9-Abstract.html)
+
+* Referentie: LivePortrait - Efficient Portrait Animation with Stitching and Retargeting Control
+Dit project maakt gebruik van code uit: Guo, J., Zhang, D., Liu, X., Zhong, Z., Zhang, Y., Wan, P., & Zhang, D. (2024). LivePortrait: Efficient portrait animation with stitching and retargeting control. Paper PDF. GitHub Repo.
+
 
