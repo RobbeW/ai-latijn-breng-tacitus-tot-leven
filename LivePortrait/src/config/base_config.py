@@ -1,5 +1,8 @@
 # coding: utf-8
 
+"""
+pretty printing class
+"""
 
 from __future__ import annotations
 import os.path as osp
@@ -10,7 +13,7 @@ def make_abs_path(fn):
     return osp.join(osp.dirname(osp.realpath(__file__)), fn)
 
 
-class PrintableConfig: 
+class PrintableConfig:  # pylint: disable=too-few-public-methods
     """Printable Config defining str function"""
 
     def __repr__(self):

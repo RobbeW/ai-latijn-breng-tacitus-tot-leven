@@ -1,6 +1,8 @@
 # coding: utf-8
 
-
+"""
+Appearance extractor(F) defined in paper, which maps the source image s to a 3D appearance feature volume.
+"""
 
 import torch
 from torch import nn
