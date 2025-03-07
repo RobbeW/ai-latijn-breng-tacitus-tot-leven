@@ -47,7 +47,7 @@ class InferenceConfig(PrintableConfig):
     input_shape: Tuple[int, int] = (256, 256)  # input shape
     output_format: Literal['mp4', 'gif'] = 'mp4'  # output video format
     crf: int = 15  # crf for output video
-    output_fps: int = 25 # default output fps
+    output_fps: int = 24 # default output fps
 
     mask_crop: ndarray = field(default_factory=lambda: cv2.imread(make_abs_path('../utils/resources/mask_template.png'), cv2.IMREAD_COLOR))
     size_gif: int = 256 # default gif size, TO IMPLEMENT
